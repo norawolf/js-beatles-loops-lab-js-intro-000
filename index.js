@@ -22,7 +22,7 @@ return array;
 }
 
 function iLoveTheBeatles(number) {
-  variable = [];
+  array = [];
 
 //do {
   //[loopBody];
