@@ -28,5 +28,7 @@ function iLoveTheBeatles(number) {
   //[loopBody];
 //} while ([condition]);
 
-  do
+  do {
+    array.push('I love the Beatles!');
+  }
 }
