@@ -21,7 +21,7 @@ function johnLennonFacts(facts) {
   // ];
 
 let i = 0;
-  while (i >= 0 && i <=3){
+  while (i < facts.length){
     array.push(`${facts[i]}!!!`);
     i++;
   }
