@@ -23,3 +23,7 @@ let i = 0;
 return array;
 
 }
+
+function iLoveTheBeatles(number) {
+  variable = [];
+}
