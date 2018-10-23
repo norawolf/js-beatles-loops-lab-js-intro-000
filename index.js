@@ -24,10 +24,6 @@ return array;
 function iLoveTheBeatles(number) {
   var array = [];
 
-//do {
-  //[loopBody];
-//} while ([condition]);
-
   do {
     array.push('I love the Beatles!');
     number++;
